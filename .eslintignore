@@ -1,0 +1,8 @@
+internals/scripts
+internals/generators
+internals/templates
+server/
+*.html
+node_modules
+coverage
+build
