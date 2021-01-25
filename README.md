@@ -8,3 +8,8 @@ Major Features
 6. Lazy Loading
 7. Auto PWA update
 8. Translation / Localization
+
+
+Minor Features
+
+1. React DND
